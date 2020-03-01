@@ -204,6 +204,13 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 ## weapons and tools
 
 ### sword
+
+
+<table>
+  <tr><th>Sharpness</th><th>Smite</th><th>Bane of Arthopodas</th></tr>
+<tr>
+<td>
+
 | name | max level |
 |--|--|
 | unbreaking | 3 |
@@ -213,6 +220,35 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | fire aspect | 2 |
 | looting | 3 |
 | knockback | 2 |
+
+</td><td>
+
+
+| name | max level |
+|--|--|
+| unbreaking | 3 |
+| mending | 1 |
+| smite | 5 |
+| sweeping edge | 3 |
+| fire aspect | 2 |
+| looting | 3 |
+| knockback | 2 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| unbreaking | 3 |
+| mending | 1 |
+| bane of arthopodas | 5 |
+| sweeping edge | 3 |
+| fire aspect | 2 |
+| looting | 3 |
+| knockback | 2 |
+
+</td>
+</tr>
+</table>
 
 ### pickaxe
 
