@@ -67,7 +67,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 |--|--|
 | unbreaking | 3 |
 | mending | 1 |
-| efficiency | 4 |
+| efficiency | 5 |
 | fotrune | 3 |
 
 </td><td>
@@ -76,7 +76,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 |--|--|
 | unbreaking | 3 |
 | mending | 1 |
-| efficiency | 4 |
+| efficiency | 5 |
 | silk touch | 1 |
 
 </td>
@@ -94,7 +94,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 |--|--|
 | unbreaking | 3 |
 | mending | 1 |
-| efficiency | 4 |
+| efficiency | 5 |
 | fotrune | 3 |
 | sharpness | 5 |
 
@@ -104,7 +104,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 |--|--|
 | unbreaking | 3 |
 | mending | 1 |
-| efficiency | 4 |
+| efficiency | 5 |
 | silk touch | 1 |
 | sharpness | 5 |
 
