@@ -1,6 +1,19 @@
 # minecraft-enchantment-list
 list of all enchantments that can be applied to minecraft tools, weapons and armors
 
+- [List of enchantments](#list-of-enchantments)
+  * [armor](#armor)
+    + [helmet](#helmet)
+    + [chestplate](#chestplate)
+    + [leggings](#leggings)
+    + [boots](#boots)
+    + [elytra](#elytra)
+  * [weapons and tools](#weapons-and-tools)
+    + [sword](#sword)
+    + [pickaxe](#pickaxe)
+    + [axe](#axe)
+    + [shovel](#shovel)
+
 # List of enchantments
 ## armor
 ### helmet
