@@ -306,6 +306,33 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 </tr>
 </table>
 
+### shovel
+
+<table>
+<tr><th>Fortune</th><th>Silk Touch</th></tr>
+<tr>
+<td>
+
+| name | max level |
+|--|--|
+| unbreaking | 3 |
+| mending | 1 |
+| efficiency | 5 |
+| fotrune | 3 |
+
+</td><td>
+
+| name | max level |
+|--|--|
+| unbreaking | 3 |
+| mending | 1 |
+| efficiency | 5 |
+| silk touch | 1 |
+
+</td>
+</tr>
+</table>
+
 
 
 
