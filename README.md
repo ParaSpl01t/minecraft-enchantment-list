@@ -6,7 +6,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 ### helmet
 
 <table>
-  <tr><th>Protection</th><th>Fire Protection</th><th>Blast Protection</th><Projectile Protection</tr>
+  <tr><th>Protection</th><th>Fire Protection</th><th>Blast Protection</th><th>Projectile Protection</th></tr>
 <tr>
 <td>
 
