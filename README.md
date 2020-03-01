@@ -4,6 +4,13 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 # List of enchantments
 ## armor
 ### helmet
+
+<table>
+  <tr><th>Protection</th><th>Fire Protection</th><th>Blast Protection</th><Projectile Protection</tr>
+<tr>
+<td>
+
+
 | name | max level |
 |--|--|
 | protection | 4 |
@@ -11,6 +18,41 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | aqua infinity | 1 |
 | respiration | 3 |
+
+</td><td>
+
+
+| name | max level |
+|--|--|
+| fire protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+| aqua infinity | 1 |
+| respiration | 3 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| blast protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+| aqua infinity | 1 |
+| respiration | 3 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| projectile protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+| aqua infinity | 1 |
+| respiration | 3 |
+
+</td>
+</tr>
+</table>
 
 ### chestplate
 | name | max level |
