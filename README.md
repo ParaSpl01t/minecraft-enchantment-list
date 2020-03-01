@@ -55,20 +55,100 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 </table>
 
 ### chestplate
+
+<table>
+  <tr><th>Protection</th><th>Fire Protection</th><th>Blast Protection</th><th>Projectile Protection</th></tr>
+<tr>
+<td>
+
+
 | name | max level |
 |--|--|
 | protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+
+</td><td>
+
+
+| name | max level |
+|--|--|
+| fire protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| blast protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| projectile protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+
+</td>
+</tr>
+</table>
 
 ### leggings
+
+<table>
+  <tr><th>Protection</th><th>Fire Protection</th><th>Blast Protection</th><th>Projectile Protection</th></tr>
+<tr>
+<td>
+
+
 | name | max level |
 |--|--|
 | protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
 
+</td><td>
+
+
+| name | max level |
+|--|--|
+| fire protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| blast protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| projectile protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+
+</td>
+</tr>
+</table>
+
+
 ### boots
+
+<table>
+  <tr><th>Protection</th><th>Fire Protection</th><th>Blast Protection</th><th>Projectile Protection</th></tr>
+<tr>
+<td>
+
+
 | name | max level |
 |--|--|
 | protection | 4 |
@@ -76,6 +156,42 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | depth strider | 3 |
 | feather falling | 4 |
+
+</td><td>
+
+
+| name | max level |
+|--|--|
+| fire protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+| depth strider | 3 |
+| feather falling | 4 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| blast protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+| depth strider | 3 |
+| feather falling | 4 |
+</td><td>
+
+
+| name | max level |
+|--|--|
+| projectile protection | 4 |
+| unbreaking | 3 |
+| mending | 1 |
+| depth strider | 3 |
+| feather falling | 4 |
+
+</td>
+</tr>
+</table>
+
 
 ### elytra
 
