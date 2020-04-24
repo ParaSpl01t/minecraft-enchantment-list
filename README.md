@@ -31,6 +31,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | aqua infinity | 1 |
 | respiration | 3 |
+| thorns | 3 |
 
 </td><td>
 
@@ -42,6 +43,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | aqua infinity | 1 |
 | respiration | 3 |
+| thorns | 3 |
 </td><td>
 
 
@@ -52,6 +54,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | aqua infinity | 1 |
 | respiration | 3 |
+| thorns | 3 |
 </td><td>
 
 
@@ -62,6 +65,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | aqua infinity | 1 |
 | respiration | 3 |
+| thorns | 3 |
 
 </td>
 </tr>
@@ -80,6 +84,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 
 </td><td>
 
@@ -89,6 +94,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | fire protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 </td><td>
 
 
@@ -97,6 +103,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | blast protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 </td><td>
 
 
@@ -105,6 +112,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | projectile protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 
 </td>
 </tr>
@@ -123,6 +131,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 
 </td><td>
 
@@ -132,6 +141,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | fire protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 </td><td>
 
 
@@ -140,6 +150,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | blast protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 </td><td>
 
 
@@ -148,6 +159,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | projectile protection | 4 |
 | unbreaking | 3 |
 | mending | 1 |
+| thorns | 3 |
 
 </td>
 </tr>
@@ -169,6 +181,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | depth strider | 3 |
 | feather falling | 4 |
+| thorns | 3 |
 
 </td><td>
 
@@ -180,6 +193,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | depth strider | 3 |
 | feather falling | 4 |
+| thorns | 3 |
 </td><td>
 
 
@@ -190,6 +204,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | depth strider | 3 |
 | feather falling | 4 |
+| thorns | 3 |
 </td><td>
 
 
@@ -200,6 +215,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 | mending | 1 |
 | depth strider | 3 |
 | feather falling | 4 |
+| thorns | 3 |
 
 </td>
 </tr>
@@ -346,6 +362,29 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
 </tr>
 </table>
 
+### crossbow
 
+<table>
+<tr><th>Piercing</th><th>Multishot</th></tr>
+<tr>
+<td>
 
+| name | max level |
+|--|--|
+| piercing | 4 |
+| quick charge | 3 |
+| unbreaking | 3 |
+| mending | 1 |
 
+</td><td>
+
+| name | max level |
+|--|--|
+| multishot | 1 |
+| quick charge | 3 |
+| unbreaking | 3 |
+| mending | 1 |
+
+</td>
+</tr>
+</table>
