@@ -13,6 +13,7 @@ list of all enchantments that can be applied to minecraft tools, weapons and arm
     + [pickaxe](#pickaxe)
     + [axe](#axe)
     + [shovel](#shovel)
+    + [crossbow](#crossbow)
 
 # List of enchantments
 ## armor
